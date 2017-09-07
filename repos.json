@@ -1,0 +1,7 @@
+{
+    "yiplusxingxiaobo/repotest": {
+        "path": "d:\\wolf\\repotest",
+        "key": "MyVerySecretKey",
+        "action": [["git","pull","origin","master"]]
+    }
+}
